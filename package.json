@@ -1,0 +1,32 @@
+{
+  "name": "expressgraphqlapi",
+  "version": "1.0.0",
+  "description": "A simple api to learn GRAPHQL with nodejs and reactjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asoft123/expressGraphQLApi.git"
+  },
+  "keywords": [
+    "Api",
+    "Nodejs",
+    "express",
+    "GraphQL"
+  ],
+  "author": "Festus A Alabo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Asoft123/expressGraphQLApi/issues"
+  },
+  "homepage": "https://github.com/Asoft123/expressGraphQLApi#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.5.0",
+    "lodash": "^4.17.21"
+  }
+}
